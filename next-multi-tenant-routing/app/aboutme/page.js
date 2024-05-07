@@ -2,7 +2,7 @@
 
 import React from 'react';
 import LandingPage from '@/components/LandingPage';
-import { headers } from 'next/headers';
+import { headers  } from 'next/headers';
 
 const IndexPage = () => {
   // get subdomain
